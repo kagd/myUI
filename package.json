@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "myModule": "1.0.0"
+    "mymodule": "1.0.0"
   }
 }

@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mymodule": "file:../myModule"
+    "mymodule": "file:../myModule/mymodule-1.0.0.tgz"
   }
 }

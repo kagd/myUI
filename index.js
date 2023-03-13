@@ -1,4 +1,4 @@
-console.info('==> myUI: esm');
+console.info('==> myUI: esm-commonjs commonjs');
 
-import {capitalize} from 'mymodule';
+const {capitalize} = require('mymodule');
 console.log(capitalize('foobar'));

@@ -1,4 +1,4 @@
-console.info('==> myUI: copy-paste');
+console.info('==> myUI: npm-link');
 
-const {capitalize} = require('myModule');
+const {capitalize} = require('mymodule');
 console.log(capitalize('foobar'));

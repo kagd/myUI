@@ -1,4 +1,4 @@
-console.info('==> myUI: esm');
+console.info('==> myUI: npm-pack');
 
-import {capitalize} from 'mymodule';
+const {capitalize} = require('mymodule');
 console.log(capitalize('foobar'));
